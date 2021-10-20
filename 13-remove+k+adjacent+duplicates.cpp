@@ -3,7 +3,7 @@
 class Solution {
 public:
    
-   /* class Pair{
+    class Pair{
         public:
         char first;   /// character
         int second;    /// count
